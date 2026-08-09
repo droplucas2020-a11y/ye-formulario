@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Para deixar o formulário fora do Google, troque as duas linhas acima por:
+# User-agent: *
+# Disallow: /
+# ...e mude a meta tag robots no index.html para: content="noindex, nofollow"

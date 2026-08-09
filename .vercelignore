@@ -1,0 +1,13 @@
+# Arquivos de trabalho — não precisam ir para o servidor.
+# A foto do formulário já está embutida dentro do index.html.
+
+LEIA-ME.md
+DEPLOY-VERCEL.md
+google-apps-script.gs
+trocar-foto.py
+definir-dominio.py
+foto-grupo.jpg
+
+.claude
+__pycache__
+*.pyc
